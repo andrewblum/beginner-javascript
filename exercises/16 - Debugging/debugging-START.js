@@ -4,6 +4,7 @@ const people = [
   { name: 'Snickers', cool: false, country: 'Dog Country' },
 ];
 
+
 people.forEach((person, index) => {
   console.log(person.name);
 });
