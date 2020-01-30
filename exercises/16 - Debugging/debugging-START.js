@@ -10,6 +10,11 @@ people.forEach((person, index) => {
 });
 
 // Console Methods
+console.log('print')
+console.error('throw an error')
+console.warn('throw a warning')
+console.clear('clears it')
+
 
 // Callstack
 
